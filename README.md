@@ -7,7 +7,7 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+## Oscillator for Adiabatic Computational Circuitry project documentation README.md file 
 
 
 :warning: | Use this sample project for analog user projects. 
